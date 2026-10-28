@@ -10,9 +10,8 @@ I once lost three months of progress on a SnowRunner save due to a progressive c
 I play on that save once a week with a friend, and he also wanted a copy. I extended it with an installer to help him set up a recurring Windows task.
 
 
-## ⚠ Disclaimer 
-
-Powershell scripts can cause harm to your PC. You should review all Powershell scripts before running them. This script is provided with no warranty or guarantee. The Windows task that is created by the installer uses `-NoProfile -NonInteractive -ExecutionPolicy Bypass` when running to allow the Powershell script to be run in the task.
+> [!WARNING]
+> Powershell scripts can cause harm to your PC. You should review all Powershell scripts before running them. This script is provided with no warranty or guarantee. The Windows task that is created by the installer uses `-NoProfile -NonInteractive -ExecutionPolicy Bypass` when running to allow the Powershell script to be run in the task.
 
 
 ## Requirements
